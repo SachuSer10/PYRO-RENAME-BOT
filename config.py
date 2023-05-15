@@ -52,15 +52,19 @@ class Txt(object):
     ɪᴍ ᴀ ᴩᴏᴡᴇʀꜰᴜʟʟ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ʙy @MovieFlix_TG ❤️</b>"""
     
 
-    ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {}
+    ABOUT_TXT = """<b>╭───────────➤
+├⍟🤖 ᴍy ɴᴀᴍᴇ : {}
+├⍟📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├⍟✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
+├⍟💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
+├⍟📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a ʀᴇɴᴀᴍᴇʀ V3.0.0</a></b>
+╰───────────────➤ """
+ 
 
 
-├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a ʀᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
-╰───────────────⍟ """
+
+
+
 
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
