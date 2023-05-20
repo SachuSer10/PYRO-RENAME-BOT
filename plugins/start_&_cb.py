@@ -39,8 +39,8 @@ async def start(client, message):
         
         
         ],[
-        InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
+        InlineKeyboardButton(' About', callback_data='about'),
+        InlineKeyboardButton(' Help', callback_data='help')
     ]])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
@@ -61,8 +61,8 @@ async def cb_handler(client, query: CallbackQuery):
                 
                 
                 ],[
-                InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
-                InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
+                InlineKeyboardButton(' About', callback_data='about'),
+                InlineKeyboardButton(' Help', callback_data='help')
             ]])
         )
     elif data == "help":
@@ -75,8 +75,8 @@ async def cb_handler(client, query: CallbackQuery):
                 ],[
                 
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton(" Close ", callback_data = "close"),
+                InlineKeyboardButton(" Back", callback_data = "start")
             ]])            
         )
     elif data == "about":
@@ -89,8 +89,8 @@ async def cb_handler(client, query: CallbackQuery):
                 ],[
                 
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton(" Close ", callback_data = "close"),
+                InlineKeyboardButton(" Back", callback_data = "start")
             ]])            
         )
     elif data == "dev":
@@ -103,8 +103,8 @@ async def cb_handler(client, query: CallbackQuery):
                 ],[
                 
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton(" Close ", callback_data = "close"),
+                InlineKeyboardButton(" Back", callback_data = "start")
             ]])          
         )
     elif data == "close":
