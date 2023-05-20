@@ -49,8 +49,11 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """<b>ʜᴇʟʟᴏ {} 👋,
-    ɪᴍ ᴀ ᴩᴏᴡᴇʀꜰᴜʟʟ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ʙy @MovieFlix_TG ❤️</b>"""
+    📝This is a Telegram Rename Bot by @NSKBOTS ❤️
     
+    📝Please send me any File, I can Rename It As Per Your choices to telegram as File/VideoVideo
+                  
+      ➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️<b>"""
 
     ABOUT_TXT = 
 """<b>🤖 My Name : {} 
