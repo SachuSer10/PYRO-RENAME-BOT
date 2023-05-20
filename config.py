@@ -55,8 +55,8 @@ class Txt(object):
                   
       ➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️➖️<b>"""
 
-    ABOUT_TXT = 
-"""<b>🤖 My Name : {} 
+    ABOUT_TXT = """<b>
+      🤖 My Name : {} 
       📕 Library: <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
       ㊙ Language: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
       💾 Database: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
