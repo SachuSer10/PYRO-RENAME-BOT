@@ -71,7 +71,34 @@ class Txt(object):
 
 
     HELP_TXT = """
-    <b>ꜰᴏʀ ᴀɴy ʜᴇʟᴩ ɪɴ ᴜꜱɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ᴍᴇꜱꜱᴀɢᴇ @MovieFlixAdminContact_Bot</b> """
+    <b>AVAILABLE COMMANDS✅️
+    
+    👉/start :Check Bot Alive Or Not 🤖
+    👉/view_thumb :Check Your Thumbnail📸
+    👉/del_thumb  :Delete Your Thumbnail💔
+    👉/set_caption  :Set Your Custom Caption
+    👉/see_caption  :See Your Caption
+    👉/del_caption  :Delete Your Caption</b>"""
+    
+
+
+    
+               
+
+
+
+
+
+
+
+  
+  
+  
+  
+ 
+ 
+
+
      
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
